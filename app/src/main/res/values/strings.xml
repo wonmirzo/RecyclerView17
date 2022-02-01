@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mail Iphone</string>
+    <string name="senders_name">Senders name</string>
+    <string name="some_message">Some message is here</string>
+    <string name="date">Mail date</string>
+</resources>
